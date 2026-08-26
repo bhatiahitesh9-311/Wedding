@@ -45,7 +45,7 @@ export type WeddingConfig = {
   hero: {
   media: {
     type: 'image',
-    src: '/assets/hero.jpg',
+    src: '/assets/CH.jpg',
     alt: 'Charu and Hitesh',
   },
   fallbackPrompt: 'Ultra realistic Indian bride and groom during golden hour, premium editorial wedding photography, soft bokeh, luxury styling, 8K.',
